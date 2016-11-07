@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-01-20T03:48:26.3630624+02:00</Time>
+    </Item>
+    <Item>
+      <Source>foreground.png</Source>
+      <Name>foreground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb</Output>
+      <Time>2012-01-20T17:10:07.4836715+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cannon.png</Source>
+      <Name>cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb</Output>
+      <Time>2012-01-20T19:00:56.8268806+02:00</Time>
+    </Item>
+    <Item>
+      <Source>carriage.png</Source>
+      <Name>carriage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb</Output>
+      <Time>2012-01-20T19:00:56.8424806+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rocket.png</Source>
+      <Name>rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb</Output>
+      <Time>2012-01-22T13:46:03.2433149+02:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2012-01-22T16:01:18.9501993+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.bmp</Source>
+      <Name>ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2012-01-22T19:58:27.1490808+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2012-01-25T16:40:16.8563716+02:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2012-01-21T16:13:54.6340939+02:00</Time>
+    </Item>
+    <Item>
+      <Source>StartGame.wav</Source>
+      <Name>StartGame</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\StartGame.xnb</Output>
+      <Time>2012-01-30T17:44:11.378834+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hitTerrain.wav</Source>
+      <Name>hitTerrain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\hitTerrain.xnb</Output>
+      <Time>2012-01-30T18:05:49.2588801+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorialContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-25T16:16:19.8175896+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

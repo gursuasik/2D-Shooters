@@ -1,0 +1,85 @@
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\StartGame.xnb
+D:\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\hitTerrain.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\StartGame.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\hitTerrain.xnb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\StartGame.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\hitTerrain.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\StartGame.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\hitTerrain.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\StartGame.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\hitTerrain.xnb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+D:\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
